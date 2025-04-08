@@ -1,11 +1,14 @@
 #👋 Hi there, I'm Neha!
 
-**💻 Full Stack Developer ** | 💙 .NET Core • C# • React • SQL  
-**🚀 I love building clean, scalable, and creative applications**
-**🌱 Currently diving deep into**: Azure, AI-driven design, and Event-Driven Architecture  
-**🧠 Passionate about** problem-solving, meaningful UX, and continuous learning
+-💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
+-🚀 I love building clean, scalable, and creative applications
+-🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
+-🧠 Passionate about problem-solving, meaningful UX, and continuous learning
+
 ---
+
 ### 🔧 My Tech Toolbox
+
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
