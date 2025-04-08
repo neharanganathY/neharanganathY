@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Neha!
+###👋 Hi there, I'm Neha!
 
 💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
 🚀 I love building clean, scalable, and creative applications  
@@ -6,7 +6,7 @@
 🧠 Passionate about problem-solving, meaningful UX, and continuous learning
 ---
 
-# 🖼️ Fun Fact
+### 🖼️ Fun Fact
 I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination — whether it's doodling on coffee cups or animating bedtime stories with code! 💫 I’m also working on fun Ghibli-style family illustrations and planning to launch a story-based feature for my toddler on the side 🎨✨
 ---
 
