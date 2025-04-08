@@ -67,6 +67,7 @@ I'm also working on fun Ghibli-style family illustrations and planning to launch
 
 ### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nehary/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@nehary24))
  
 [🌐 Personal Portfolio]- Currently working on it.
 
