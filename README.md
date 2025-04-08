@@ -1,15 +1,10 @@
-###👋 Hi there, I'm Neha!
+#👋 Hi there, I'm Neha!
 
 💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
 🚀 I love building clean, scalable, and creative applications  
 🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
 🧠 Passionate about problem-solving, meaningful UX, and continuous learning
 ---
-
-### 🖼️ Fun Fact
-I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination — whether it's doodling on coffee cups or animating bedtime stories with code! 💫 I’m also working on fun Ghibli-style family illustrations and planning to launch a story-based feature for my toddler on the side 🎨✨
----
-
 ### 🔧 My Tech Toolbox
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat)
@@ -22,6 +17,10 @@ I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech w
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
+---
+
+# 🖼️ Fun Fact
+I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination — whether it's doodling on coffee cups or animating bedtime stories with code! 💫 I’m also working on fun Ghibli-style family illustrations and planning to launch a story-based feature for my toddler on the side 🎨✨
 ---
 
 ### 🌟 Featured Project: DripDoodle ☕🎨
