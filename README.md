@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Neha!
+###👋 Hi there, I'm Neha!
 
 -💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
 -🚀 I love building clean, scalable, and creative applications
@@ -67,9 +67,27 @@ I'm also working on fun Ghibli-style family illustrations and planning to launch
 
 ### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nehary/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@nehary24))
- 
 [🌐 Personal Portfolio]- Currently working on it.
+---
+
+### ✍️ Writing & Learning on Medium
+
+I'm a lifelong learner who loves to break down technical concepts in a human, relatable way. Whether it's understanding how AI connects with C#, or demystifying Azure for beginners, I believe that documenting your learning is just as powerful as the learning itself.
+
+On my [**Medium blog**]((https://medium.com/@nehary24)), I’ll be sharing:
+- My approach to building real-world .NET + React projects
+- Insights from my AZ-900 and AI certification prep
+- Tiny lessons from solving bugs, building components, or using tools like Postman and Swagger
+- Creative tech twists like story-driven coding and kid-friendly animation ideas
+
+🌱 I write to remember, to connect, and to help someone like me just a few months ago.
+
+🛠️ Currently drafting:  
+> *“How I Built DripDoodle: Merging AI, Coffee, and Code with ASP.NET Core”*
+
+👉 [Follow me on Medium](https://medium.com/@nehary24) if you're into curious dev stories, beginner-friendly breakdowns, or just vibing with someone navigating tech  
+
+
 
 
 
