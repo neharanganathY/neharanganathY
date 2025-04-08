@@ -66,7 +66,8 @@ I'm also working on fun Ghibli-style family illustrations and planning to launch
 - 👩‍👧 Balance motherhood + meaningful tech career  
 
 ### 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)]((https://www.linkedin.com/in/nehary/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nehary/)
+ 
 [🌐 Personal Portfolio]- Currently working on it.
 
 
