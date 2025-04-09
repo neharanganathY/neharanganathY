@@ -1,14 +1,10 @@
-###  Hi there, 👋 I'm Neha!
+### 👋 Hi there, I'm Neha!
 
--💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
-
--🚀 I love building clean, scalable, and creative applications 
-
--🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
-
--🧠 Passionate about problem-solving, meaningful UX, and continuous learning 
-
--💻 Developing my portfolio and personal brand one pixel at a time 
+💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
+🚀 I love building clean, scalable, and creative applications  
+🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
+🧠 Passionate about problem-solving, meaningful UX, and continuous learning  
+🎨 Building my portfolio and personal brand one pixel at a time
 
 ---
 
@@ -26,7 +22,9 @@
 
 ---
 
-### 🌟 Featured Project: DripDoodle ☕🎨
+### 🌟 Featured Project: DripDoodle ☕️🎨
+
+> An AI-powered app that turns your words and photos into custom coffee cup doodles. Built to explore creativity, fun, and machine learning.
 
 **🛠️ Tech Stack:**
 - React (Frontend)
@@ -41,61 +39,57 @@
 - AI generates a unique doodle overlay 🎨  
 - Save or share your personalized coffee cup image ☕
 
-🔗 [Visit DripDoodle Repo](Will update it very soon)
+🔗 [Visit DripDoodle Repo](#) *(coming soon)*
 
 ---
 
 ### 📌 Other Projects
 
-- 📝 **[Blogginsite]**  
+- 📝 **Blogginsite**  
   A blog web app built with ASP.NET Core MVC, Microsoft Identity, and SQL Server
 
-- 📊 **[Data Dashboard]([https://public.tableau.com/app/profile/neha.yadagiri/vizzes])**  
-  Visualizing insights using tableau
+- 📊 **Data Dashboard**  
+  Visualizing insights using Tableau  
+  🔗 [Check it out]([https://public.tableau.com/app/profile/neha.yadagiri/vizzes])
 
 ---
 
 ### ✨ Fun Fact
+
 I call myself a **Curiocoder** —  
 > *A curious explorer of ideas, code, and creativity — navigating the world through learning, bugs, and beautifully weird breakthroughs.*
-I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination. 
-I'm also working on fun Ghibli-style family illustrations and planning to launch a story-based feature for my toddler 🎨✨
-From designing clean APIs in ASP.NET Core to doodling AI-generated coffee cups with React, I’m here to build, share, and break things beautifully💻
-I believe in writing code that works, writing stories that help, and shipping joy — one commit closer to the stars 🚀
+
+I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination — from building DripDoodle to crafting Ghibli-style family illustrations.  
+I believe in writing code that works, writing stories that help, and shipping joy — **one commit closer to the stars 🚀**
+
 ---
 
 ### 🎯 2025 Goals
 
-- ✅ Clear lot of certifications.  
-- 🚀 Build 2 SaaS-style side, lot of AI based projects  
+- ✅ Complete multiple certifications (AZ-900, AI Fundamentals, etc.)  
+- 🚀 Build 2+ SaaS-style, AI-driven side projects  
 - 🧠 Publish 3+ articles on AI + .NET Core  
 - 💼 Land a role that challenges and inspires  
-- 👩‍👧 Balance motherhood + meaningful tech career  
+- 👩‍🍧 Balance motherhood and a meaningful tech career
 
-### 📫 Let’s connect
+---
+
+### 📢 Let’s Connect
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nehary/)
-[🌐 Personal Portfolio]- Currently working on it.
+
+🌐 Personal Portfolio – *Coming soon!*
+
 ---
 
 ### ✍️ Writing & Learning on Medium
 
-I'm a lifelong learner who loves to break down technical concepts in a human, relatable way. Whether it's understanding how AI connects with C#, or demystifying Azure for beginners, I believe that documenting your learning is just as powerful as the learning itself.
+I'm a lifelong learner who loves to break down technical concepts in a human, relatable way. Whether it’s understanding how AI connects with C#, or demystifying Azure for beginners, I believe **sharing your learning is just as powerful as the learning itself.**
 
-On my [**Medium blog**]((https://medium.com/@nehary24)), I’ll be sharing:
-- My approach to building real-world .NET + React projects
-- Insights from my AZ-900 and AI certification prep
-- Tiny lessons from solving bugs, building components, or using tools like Postman and Swagger
-- Creative tech twists like story-driven coding and kid-friendly animation ideas
-
-🌱 I write to remember, to connect, and to help someone like me just a few months ago.
+📚 On my [**Medium blog**](https://medium.com/@nehary24), I’ll be sharing:
+- My approach to building real-world .NET + React projects  
+- Tiny lessons from solving bugs, building components, or working with tools like Swagger/Postman  
+- Creative coding adventures and kid-friendly features I sneak into my work
 
 🛠️ Currently drafting:  
 > *“How I Built DripDoodle: Merging AI, Coffee, and Code with ASP.NET Core”*
-
-👉 [Follow me on Medium](https://medium.com/@nehary24) if you're into curious dev stories, beginner-friendly breakdowns, or just vibing with someone navigating tech  
-
-
-
-
-
-
