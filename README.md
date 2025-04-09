@@ -1,5 +1,6 @@
 ###  Hi there, I'm Neha!
-**👋 **
+**👋**
+
 -💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
 
 -🚀 I love building clean, scalable, and creative applications 
