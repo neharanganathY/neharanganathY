@@ -1,5 +1,4 @@
-###  Hi there, I'm Neha!
-**👋**
+###  Hi there, 👋 I'm Neha!
 
 -💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
 
