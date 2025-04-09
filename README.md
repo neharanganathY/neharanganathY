@@ -1,9 +1,13 @@
 ### 👋 Hi there, I'm Neha!
 
 -💻 Full Stack Developer | 💙 .NET Core • C# • React • SQL  
+
 -🚀 I love building clean, scalable, and creative applications 
+
 -🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
+
 -🧠 Passionate about problem-solving, meaningful UX, and continuous learning 
+
 -💻 Developing my portfolio and personal brand one pixel at a time 
 
 ---
