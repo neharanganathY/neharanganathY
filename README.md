@@ -4,6 +4,7 @@
 -🚀 I love building clean, scalable, and creative applications
 -🌱 Currently diving deep into: Azure, AI-driven design, and Event-Driven Architecture  
 -🧠 Passionate about problem-solving, meaningful UX, and continuous learning
+- 💻 Developing my portfolio and personal brand one pixel at a time
 
 ---
 
@@ -51,10 +52,11 @@
 ---
 
 ### ✨ Fun Fact
-
+I call myself a **Neuronaut** —  
+> *A passionate explorer of ideas, code, and creativity — navigating the world through learning, bugs, and beautifully weird breakthroughs.*
 I'm a creative coder, a mom to a wonderful little girl, and I love mixing tech with imagination — whether it's doodling on coffee cups or animating bedtime stories with code.  
 I'm also working on fun Ghibli-style family illustrations and planning to launch a story-based feature for my toddler 🎨✨
-
+I believe in writing code that works, writing stories that help, and shipping joy — one commit closer to the stars 🚀
 ---
 
 ### 🎯 2025 Goals
