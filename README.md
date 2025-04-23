@@ -77,6 +77,7 @@ I believe in writing code that works, writing stories that help, and shipping jo
 ### 📢 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nehary/)
+[![Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/onecommitclosertothestars)
 
 🌐 Personal Portfolio – *Coming soon!*
 
